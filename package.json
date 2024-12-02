@@ -1,0 +1,13 @@
+{
+  "name": "poon-spaces",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Smallest possible client for DigitalOcean Spaces API",
+  "main": "index.js",
+  "scripts": {},
+  "author": "James Loper",
+  "license": "ISC",
+  "dependencies": {
+    "aws4": "^1.13.2"
+  }
+}
